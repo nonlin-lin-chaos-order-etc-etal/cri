@@ -15,7 +15,7 @@
 <Gaudi> две сети пашут
 <Gaudi> одна на линухах хостит ноды ботнета
 <Gaudi> другая на винде макоси линухе
-<Gaudi> x, не x это нихуя
+<Gaudi> x, не x это 
 <Gaudi> а норм проект
 <Gaudi> просто хостить ноды ботнета на андройдах
 <Gaudi> https://raw.githubusercontent.com/nonlin-lin-chaos-order-etc-etal/cri/ARXINEOPSIXIKAETCETAL/docs/argouml/cri_structure_export.png
