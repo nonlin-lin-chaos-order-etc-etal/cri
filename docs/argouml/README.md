@@ -1,5 +1,26 @@
 .zargo opens with ArgoUML v.1.x
 
+
+
+
+
+
+LD470 https://egphilippov.kroogi.com/
+
+LD10 https://github.com/lesnayaigra
+
+
+
+
+LD15 https://github.com/ArxMetaNemo
+
+LD17 https://github.com/egphilippov
+
+
+LD200 https://github.com/WorldsOfBabylon Marduk's Fate & https://enmerkar.com/ blog & books
+
+LD220
+
 ```
 23.12.2021 | 17:20:34  ‎mulka‎: * y has quit (Ping timeout: 120 seconds)
 <x> Здарова, черти тунельные
